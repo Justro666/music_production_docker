@@ -1,0 +1,45 @@
+1 user
+2 role
+3 permission
+4 page
+5 careeer_role
+6 catalog
+7 owner_catalog
+8 user_catalog
+9 song
+10 artwork
+11 project
+12 user_profile
+13 chat
+14 archive
+15 helper
+16 sheet_music
+17 profile
+18 notification
+
+c1	name
+c2	primary_artist
+c3	featured_artists
+c4	composers
+c5	producers
+c6	artwork_id
+c7	song_id
+c8	primary_title
+c9	year_of_release
+c10	duration
+c11	album_titles
+c12	iswc
+c13	publisher_ipi
+c14	publisher_name
+c15	collection_share
+c16	recording_title
+c17	recording_artist
+c18	recording_isrc
+c19	label
+c20	m_user_id
+c21	status
+c22	catalog_id
+
+
+"",
+helper.fmsg(res, process.env.SERVER_ERROR, "S Server Error");
